@@ -40,7 +40,7 @@ npm init vue@latest
 
 After it is installed, it will ask for a project name, and various other configuartions for a Vue app. For this, I simply chose Pinia and nothing else.
 
-*** I use this because it has more options to add on other various Vue tools 
+*** I use this because it has more options to add on other various Vue tools than this command: 
 ```sh
 npm create vite@latest
 ```
