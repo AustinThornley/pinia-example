@@ -30,7 +30,7 @@ npm run build
 
 OR,
 
-### If you wish to create an app from scratch, create a folder for your project, and run this command.
+### *** If you wish to create an app from scratch, create a folder for your project, and run this command.
 
 ```sh
 npm init vue@latest
@@ -39,3 +39,8 @@ npm init vue@latest
 (This will ask you to install it if is not installed)
 
 After it is installed, it will ask for a project name, and various other configuartions for a Vue app. For this, I simply chose Pinia and nothing else.
+
+*** I use this because it has more options to add on other various Vue tools 
+```sh
+npm create vite@latest
+```
